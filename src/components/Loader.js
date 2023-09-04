@@ -11,6 +11,7 @@ export const LoadingIndicator = () => {
         wrapperStyle={{}}
         wrapperClass=""
         visible={true}
+        
       />
     </div>
   );
